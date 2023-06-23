@@ -1,7 +1,7 @@
 # Peter Got Cookies
 
 Peter Got Cookies 是一個 Chrome Extension，能夠讓使用者簡單快速地下載當前網站的 Cookies。
-純粹是最近在研究怎麼使用 youtube-dl 下載私人影片，還有學習寫 Chrome Extension 。
+純粹是最近在研究怎麼使用 youtube-dl 下載私人影片需要 Cookies，還有學習寫 Chrome Extension，當作練習。
 
 ## 功能
 
